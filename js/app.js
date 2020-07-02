@@ -1,4 +1,4 @@
-	
+alert("This Website is under development for Mobiles and tablets ");	
 
 
 let hamberger = document.querySelector('.hamberger');
